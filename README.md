@@ -2,4 +2,4 @@
 
 ## TABLE OF CONTENT 
 
-[Meet Your Doctor Wedsite](https://meetyourdoctor.godaddysites.com/)
+[Meet Your Doctor Website](https://meetyourdoctor.godaddysites.com/)
