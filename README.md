@@ -10,4 +10,4 @@
 
 [Covid On Black Peopel Data Set](https://github.com/Abena1M/Meet-Your-Doctor/blob/683afc97eba70333b1b75686d7de6ced365cb1bc/Covid_Black.csv)
 
-[Demo Video](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGmvLTBWfcxSdclsmJtNWfrwbSK)
+[Demo Video](https://vimeo.com/685190338/324ff97269?activityReferer=1)
